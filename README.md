@@ -25,26 +25,56 @@
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  </p>
 
-<div align = "center">
-<img height="160px" margin-right="6px" src="https://github-readme-stats.vercel.app/api?username=w4lner&hide_border=true&show_icons=true&theme=react"&hide_border=true&bg_color=0D1117 ></img>
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=w4lner&theme=black-ice&hide_border=true&bg_color=0D1117&stroke=0000&background=060A0CD0"&hide_border=true&date_format=j%20M%5B%20Y%5D"/><br>
+
+##  GitHub Analytics ⚙️
+<div align="center">
+  <a href="https://github.com/w4lner">
+    <p align="center">
+       <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=w4lner&show_icons=true&theme=react&hide_border=true" />
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=w4lner&theme=react&hide_border=true" />
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nahuel61920&theme=react&hide_border=true"/>
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w4lner&theme=react&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=w4lner&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+    </p>
+  </a>
+  <p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+  <br>
 </div>
+
+##  Contacts :speech_balloon:
+ 
+<div>
+  <a href = "mailto:walnerxyz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/w4lner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5351154951" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/{user}/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+## GitHub Profile Trophy 🏆 
+<a href="https://github.com/w4lner/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nahuel61920&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+ 
+</div>
+
+
+<p align="center"><img src="animation.gif" width="35%"></p>
+<div style=" font-size: medium; color: #447ff7" align=center>
+
+
+<p align="center">
+  <a href="https://github.com/Nahuel61920">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Nahuel61920&theme=react-dark" />
+  </a>
+</p>
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 </div>
 
-## 🤝 Connect with me  
-<div align="center" >
-<a href="https://github.com/W4lner" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- <a href="https://instagram.com/w4lner" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-bottom: 5px;"/>
- </a>
-<a href="https://twitter.com/wal52" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>
- <hr/>
  
 <h3 align="center"> DON'T FORGET TO ⭐ THIS REPOSITORY !!!
 </h3> 
